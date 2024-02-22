@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - BUSINESS ADMINISTRATION:
    -[![매경테스트 자격증]자격증](https://www.notion.so/01c6232bbeac448bad57d4fa3335b99a)
    -SMAT
+  
 -UNIVERSITY OF TORONTO ENGLISH CLASS 수료
 [![수료증]]()[Yunkyung Lee.pdf](https://github.com/yunkyung0725/yunkyung/files/14365765/Yunkyung.Lee.pdf)
 
