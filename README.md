@@ -26,19 +26,6 @@ Here are some ideas to get you started:
 - 고려대학교 기반 데이터분석동아리
 
 
-## 관심주제
-e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원), 추천시스템
-
-
-
-
-## 자신있는 role
--발표,데이터분석,개발자(백엔드,프론트엔드),디자인,자료조사
-
-
-## 업무방식/거주지/생활패턴
--bottom up/서울 양천구 목동/ 아침형(밤새는것 잘함)
--지라 협업 툴 이용
 
 
 ## Education
@@ -56,6 +43,23 @@ e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원), 추
   
 -UNIVERSITY of toronto english class 수료
 [![수료증]][Yunkyung Lee.pdf](https://github.com/yunkyung0725/yunkyung/files/14365765/Yunkyung.Lee.pdf)
+
+
+## 관심주제
+e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원), 추천시스템
+
+
+
+
+## 자신있는 role
+-발표,데이터분석,개발자(백엔드,프론트엔드),디자인,자료조사
+
+
+## 업무방식/거주지/생활패턴
+-bottom up/서울 양천구 목동/ 아침형(밤새는것 잘함)
+-지라 협업 툴 이용
+
+
 
 
    
