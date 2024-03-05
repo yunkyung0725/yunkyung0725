@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 - BUSINESS ADMINISTRATION:
    -[![매경테스트 자격증]자격증](https://www.notion.so/01c6232bbeac448bad57d4fa3335b99a)
    -SMAT
-- posco esg경영프로그램 참어
+- posco esg경영프로그램 참여
+  
   
 -UNIVERSITY of toronto english class 수료
 [![수료증]][Yunkyung Lee.pdf](https://github.com/yunkyung0725/yunkyung/files/14365765/Yunkyung.Lee.pdf)
