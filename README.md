@@ -18,10 +18,22 @@ Here are some ideas to get you started:
 # yunkyung
 ## Experience
 - Currently learning UltraEdit
+- 프로젝트 꽂히다(mbti기반 꽃판매 구현)어플리케이션 웹사이트 구현(백엔드 엔지니어)
+- gdsc해커톤대회 프론트 엔지니어로 참여
+- 헬스케어 창업동아리(실무
+- 데이터스테이션기반의 데이터 분석프로젝트 수행
+
+##관심주제
+헬스케어,창업, 금융, 마케팅
+
+##자신있는 role
+-발표,데이터분석,개발자(백엔드,프론트엔드),디자인,자료조사
+
+##업무방식/거주지/생활패턴
+-bottom up/서울 양천구 목동/ 아침형
+
 
 ## Education
-
-
 - Department of DataScience & Business administration
 - DATASCIENCE:
  -google for developers 해커톤 대회 수료증[![수료증]](https://www.notion.so/e62fe44b6e4e4ce2b61cfe368dcb40f5)
