@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ## 관심주제
-헬스케어,창업, 금융, 마케팅
+헬스케어,창업, 금융(전국경제인연합회 학회원), 마케팅
 
 
 
