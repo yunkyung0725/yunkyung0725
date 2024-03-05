@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,24 +21,19 @@ Here are some ideas to get you started:
 - Currently learning UltraEdit
 - 프로젝트 꽂히다(mbti기반 꽃판매 구현)어플리케이션 웹사이트 구현(백엔드 엔지니어)
 - gdsc해커톤대회 프론트 엔지니어로 참여
-- 헬스케어 창업동아리(루티너리 어플리케이션 수정및 개발진행/헬스케어 창업 기업과 개발프로젝트진행)(환자별 척추수술결과를 활용한 케어 서비스 개발을 통한 수익성향상)
+- 헬스케어 창업동아리(루티너리 어플리케이션 수정및 개발진행/헬스케어 창업 기업과 개발프로젝트진행)
 - 데이터스테이션기반의 데이터 분석프로젝트 수행
 - 고려대학교 기반 데이터분석동아리
 
 
 ## 관심주제
-e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원), 마케팅
+e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원), 추천시스템
 
 
 
 
 ## 자신있는 role
 -발표,데이터분석,개발자(백엔드,프론트엔드),디자인,자료조사
-
-## 팀별 협업경험
--꽂히다 프로젝트 지라 툴이용
-
-
 
 
 ## 업무방식/거주지/생활패턴
