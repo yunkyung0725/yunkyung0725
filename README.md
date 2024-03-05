@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 
 ## 관심주제
+컴퓨터 비전,자연어처리
 e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원), 추천시스템
 
 
