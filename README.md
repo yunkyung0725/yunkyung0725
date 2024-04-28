@@ -36,6 +36,7 @@ Here are some ideas to get you started:
  - AWS Generation AI education [[!수료증]](https://www.notion.so/98cef35f4ffa402898f598b4b3cf79fb)
  - BDA(Big Data Analysis) 학회 8기
  - 워드바이스 기업 산학연계인턴
+ - 빅데이터 마케팅 수업 우수상 시상
   
 - BUSINESS ADMINISTRATION:
    -[![매경테스트 자격증]자격증](https://www.notion.so/01c6232bbeac448bad57d4fa3335b99a)
@@ -61,13 +62,6 @@ e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원)
 
 ## 업무방식/거주지/생활패턴/임하는각오
 -bottom up/서울 양천구 목동/ 아침형/도전적,창의적,몰입형
-
-
-
-##pm덕목/조활동사례
--지라 협업 툴 이용
--커뮤니케이션
--리더십
    
 
 ## Language Qualification
@@ -82,9 +76,9 @@ e-commerce,창업(헬스케어), 금융(전국경제인연합회 학회원)
   - [HTML/CSS]
 
 ## Certificates
-- 정보처리기사자격증
-- Advanced Data Analytics Semi-Professional (ADsP)
-- SQL Developer (SQLD)
+- TOEIC
+
+
 
 ## Contact
 - E-MAIL: richkyung0725@gmail.com
