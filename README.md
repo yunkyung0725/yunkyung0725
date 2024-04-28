@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # yunkyung
-Seoul Women's University,  majoring in Computer Science
+Seoul Women's University,  majoring in Data Science
 ## Experience
 - Currently learning UltraEdit
 - 프로젝트 꽂히다(mbti기반 꽃판매 구현)어플리케이션 웹사이트 구현(백엔드 엔지니어)
