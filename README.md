@@ -46,7 +46,7 @@ Seoul Women's University,  majoring in Computer Science
   
   
 -UNIVERSITY of toronto english class 수료
-[![수료증]][Yunkyung Lee.pdf](https://github.com/yunkyung0725/yunkyung/files/14365765/Yunkyung.Lee.pdf)
+[[수료증]][Yunkyung Lee.pdf](https://github.com/yunkyung0725/yunkyung/files/14365765/Yunkyung.Lee.pdf)
 
 
 ## 관심주제
