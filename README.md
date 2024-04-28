@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  - Microsoft 정보보안과정 MS900 수료
  - AWS Generation AI education [[!수료증]](https://www.notion.so/98cef35f4ffa402898f598b4b3cf79fb)
  - BDA(Big Data Analysis) 학회 8기
- - AWS 산학연계인턴
+ - 워드바이스 기업 산학연계인턴
   
 - BUSINESS ADMINISTRATION:
    -[![매경테스트 자격증]자격증](https://www.notion.so/01c6232bbeac448bad57d4fa3335b99a)
