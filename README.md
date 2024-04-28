@@ -45,7 +45,7 @@ Seoul Women's University,  majoring in Data Science
 - posco esg경영프로그램 참여
   
 -UNIVERSITY of toronto english class 수료
-  -[![수료증]Yunkyung Lee.pdf](file:///C:/Users/pc/Downloads/Yunkyung%20Lee%20(1).pdf)
+  -[![수료증]수료증](file:///C:/Users/pc/Downloads/Yunkyung%20Lee%20(1).pdf)
 
 
 ## 관심주제
