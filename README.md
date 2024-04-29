@@ -15,15 +15,15 @@ Seoul Women's University, majoring in Data Science
 **Education**
 
 - Department of DataScience & Business administration
-- DATASCIENCE: -google for developers 해커톤 대회 수료증[![수료증]](https://www.notion.so/e62fe44b6e4e4ce2b61cfe368dcb40f5?pvs=21)
+- DATASCIENCE: -google for developers 해커톤 대회 수료증[![수료증]수료증](https://www.notion.so/e62fe44b6e4e4ce2b61cfe368dcb40f5?pvs=21)
 - Microsoft 정보보안과정 MS900 수료
 - AWS Generation AI education [![수료증]](https://drive.google.com/drive/u/0/home)
 - BDA(Big Data Analysis) 학회 8기
 - 워드바이스 기업 산학연계인턴 PM
 - 빅데이터 마케팅 수업 우수상 시상
 - BUSINESS ADMINISTRATION: -[![매경테스트 자격증]자격증](https://www.notion.so/01c6232bbeac448bad57d4fa3335b99a?pvs=21) -SMAT
-- posco esg경영프로그램 참여 및 수상 -[![상장](https://drive.google.com/drive/u/0/home)
-- UNIVERSITY of toronto english class 수료 -[![수료증](https://drive.google.com/drive/u/0/home)
+- posco esg경영프로그램 참여 및 수상 -[![상장]상장](https://drive.google.com/drive/u/0/home)
+- UNIVERSITY of toronto english class 수료 -[![수료증]수료증](https://drive.google.com/drive/u/0/home)
 
 **관심주제**
 
