@@ -31,11 +31,7 @@ Seoul Women's University, majoring in Data Science
 - 프로젝트 꽂히다(mbti기반 꽃판매 구현)어플리케이션 웹사이트 구현(백엔드 엔지니어)
 - gdsc 해커톤 대회 프론트 엔지니어
 - 헬스케어 창업동아리(루티너리 어플리케이션 수정및 개발진행/헬스케어 창업 기업과 개발프로젝트진행/AI 개발자 참여)
-
-→DHP투자유치 및 플레이스토어 앱배포 테스팅 시현 완료
-
-→음식사진 데이터셋을 이용하여 OpenCV의 YOLOv3기술을 활용한 딥러닝 기반 객체 감지 
-
+-음식사진 데이터셋을 이용하여 OpenCV의 YOLOv3기술을 활용한 딥러닝 기반 객체 감지 
 →백,프,기획자,디자이너와 협업하여 해당 서비스 앱내에 구축
 
 - BDA(BIG DATA 분석학회 데이터분석 모델링 프젝 수행
@@ -49,8 +45,6 @@ Seoul Women's University, majoring in Data Science
 
 [[인공지능 A]2024_하계워크샵_PPT템플릿.pptx](https://prod-files-secure.s3.us-west-2.amazonaws.com/7a88227d-b9ec-4121-a1b4-f4ad57f63c74/a369efec-d9d9-4f07-bb90-f1546433ee87/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_A2024_%ED%95%98%EA%B3%84%EC%9B%8C%ED%81%AC%EC%83%B5_PPT%ED%85%9C%ED%94%8C%EB%A6%BF.pptx)
 
-- 성경필사 앱 기획자 참여
-</aside>
 
 ## Education
 
