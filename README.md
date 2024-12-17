@@ -157,9 +157,7 @@ Seoul Women's University, majoring in Data Science
 
 ERP,공급망 관리(스마트 물류)
 
-→협업경험 및 갈등해결
 
-산학연계프로젝트 pm으로 활동하며 kpt회고 방식을 통해 협업및 갈등해결
 
 ## Tech Stack
 
